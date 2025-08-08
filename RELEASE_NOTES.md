@@ -1,5 +1,23 @@
 # @mdn/browser-compat-data release notes
 
+## [v6.1.1](https://github.com/mdn/browser-compat-data/releases/tag/v6.1.1)
+
+August 8, 2025
+
+### Additions
+
+- `api.Element.scrollIntoView.options_container_parameter` ([#27463](https://github.com/mdn/browser-compat-data/pull/27463))
+- `browsers.edge.releases.142` ([#27531](https://github.com/mdn/browser-compat-data/pull/27531))
+- `css.selectors.heading` ([#27504](https://github.com/mdn/browser-compat-data/pull/27504))
+- `css.selectors.headingfunction` ([#27504](https://github.com/mdn/browser-compat-data/pull/27504))
+
+### Statistics
+
+- 6 contributors have changed 14 files with 224 additions and 89 deletions in 14 commits ([`v6.1.0...v6.1.1`](https://github.com/mdn/browser-compat-data/compare/v6.1.0...v6.1.1))
+- 17,738 total features
+- 1,180 total contributors
+- 5,346 total stargazers
+
 ## [v6.1.0](https://github.com/mdn/browser-compat-data/releases/tag/v6.1.0)
 
 August 5, 2025
